@@ -35,9 +35,6 @@ class App(tk.Tk):
         super().__init__()
         self.title("Flow Computing")
         self.state('zoomed')
-        self.update_idletasks()
-        win_width = self.winfo_width()
-        win_height = self.winfo_height()
 
 # Initialises the code when the program starts running, and puts the GUI window into a permanent loop to prevent it from closing.
 if __name__ == "__main__":
