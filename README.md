@@ -10,7 +10,7 @@ Author: Ryan Fernando
 
 Date: 08/05/2026
 
-Version: 7.0
+Version: 8.0
 
 ----------------------------------------
 
