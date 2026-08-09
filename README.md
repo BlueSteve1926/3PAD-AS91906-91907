@@ -69,7 +69,7 @@ Usage
 - After signing in or logging in, you can select any difficulty from the lobby screen.
 - You have 5 minutes to complete a quiz, and 3 lives to help pay attention to accuracy. Each difficulty level has instructions on what the questions are about, and how they should be answered.
 - Your score will be saved if you get a score of 1 or above (maximum score is 10 for each quiz). A score of 5 or greater is required to win. Even if you score lower than 5 but at least 1, the results will still be saved even though you lost. Getting no score at all (a score of 0) means you have effectively lost, and results won't be saved.
-- You can view all your scores in the "Previous Scores" page, which the button is located on the lobby screen. The lobby screen also has a button on the top-left to view the leaderboard where all the top scores of every registered user are ranked. Both leaderboard and previous scores categorise results by difficulty - use the combobox to select a difficulty and view its records.
+- You can view all your scores in the "Previous Scores" page, which the button is located on the lobby screen. The lobby screen also has a button on the top-left to view the leaderboard where all the top scores of every registered user are ranked. Both leaderboard and previous scores are categorised results by difficulty - use the combo box to select a difficulty and view its records.
 - If you want to log out, the logout button is located at the top-right of the lobby screen. After logging out, you can either log in or sign up, or click the "Quit" button to exit the program.
 
 
