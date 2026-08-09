@@ -10,7 +10,7 @@ Author: Ryan Fernando
 
 Date: 08/05/2026
 
-Version: 8.0
+Version: 9.0
 
 ----------------------------------------
 
@@ -79,5 +79,10 @@ Testing
 - Message boxes handle empty or invalid inputs with clear messages.
 - The leaderboard and score history listboxes updates and displays the data correctly. Each user's score history contains every score from each time they have completed a quiz. This is sorted by date from latest to oldest. The leaderboard ranks each player's highest score from highest to lowest, then by time remaining in there are 2 or more records with the same score. Time remaining is sorted from highest to lowest as well.
 - A temporary data list (called a "set") is used to make sure no duplicated questions appear in a quiz. It temporarily stores each question, then runs through and checks whether the next randomly-generated question is identical to any of the others.
+
+
+Problems/Limitations:
+- It may take moment to start the program and load some assets due to the amount of modules and processes they make. This can also depend on your computer's processing speed.
+- The window won't be displayed properly on devices with smaller screen sizes (smaller than 1920x1080), resulting in some GUI widgets being hidden from view. Make sure you use a 1080p device to be able to access all widgets in the program.
 
 Thanks for reading!
