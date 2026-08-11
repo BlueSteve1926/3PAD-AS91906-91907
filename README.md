@@ -72,6 +72,8 @@ Usage
 - You can view all your scores in the "Previous Scores" page, which the button is located on the lobby screen. The lobby screen also has a button on the top-left to view the leaderboard where all the top scores of every registered user are ranked. Both leaderboard and previous scores are categorised results by difficulty - use the combo box to select a difficulty and view its records.
 - If you want to log out, the logout button is located at the top-right of the lobby screen. After logging out, you can either log in or sign up, or click the "Quit" button to exit the program.
 
+Note: Since the program's window size is automatically maximised and is designed for 1920x1080 screen sizes, a 1080p screen device is recommended. Otherwise, display settings can be changed in the "Display" section in your device's "Settings" utility by changing the "Scale" and/or "Display resolution" properties. An insufficient screen size can obscure some of the widgets from view, making several of the program's functions and features inaccessible.
+
 
 Testing
 
@@ -82,7 +84,7 @@ Testing
 
 
 Problems/Limitations:
-- It may take moment to start the program and load some assets due to the amount of modules and processes they make. This can also depend on your computer's processing speed.
-- The window won't be displayed properly on devices with smaller screen sizes (smaller than 1920x1080), resulting in some GUI widgets being hidden from view. Make sure you use a 1080p device to be able to access all widgets in the program.
+- It may take a moment to start the program and load some assets due to the amount of modules and processes they make. This can also depend on your computer's processing speed.
+- The window won't be displayed properly on devices with smaller screen sizes (smaller than 1920x1080), resulting in some GUI widgets being hidden from view. Make sure you use a 1080p device to be able to access all widgets in the program. Read the note under the "Usage" section for more information on this limitation, and how to overcome it if your device's screen size is unsuitable.
 
 Thanks for reading!
