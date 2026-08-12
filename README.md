@@ -60,7 +60,7 @@ How to Run
 3. Ensure all project files and folders are in the same directory as the program.
 
 4. Run the main program, which is located in the "Program" folder:
-python main.py
+main.py
 
 
 Usage
